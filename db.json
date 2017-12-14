@@ -1,14 +1,158 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "brand": "AC",
+    "model": "3000ME",
+    "year": "1984",
+    "mileage": "593000",
+    "location": "Scotland",
+    "color": "Yellow",
+    "transmission": "manual",
+    "body-type": "sports car",
+    "drive-type": "all-synchromesh",
+    "plate-no": "xxxx8",
+    "condition": "slightly used"
+  },
+  {
+    "brand": "BMC",
+    "model": "ADO16",
+    "year": "1962",
+    "mileage": "324000",
+    "location": "Spain",
+    "color": "blue",
+    "transmission": "manual",
+    "body-type": "saloon",
+    "drive-type": "front-wheel drive",
+    "plate-no": "xxxx2",
+    "condition": "broken side mirror"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cimarron",
+    "year": "1988",
+    "mileage": "458000",
+    "location": "California",
+    "color": "grey",
+    "transmission": "automatic",
+    "body-type": "sedan",
+    "drive-type": "front-wheel drive",
+    "plate-no": "xxxx2",
+    "condition": "good"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "year": "2002",
+    "mileage": "424300",
+    "location": "Manila",
+    "color": "red",
+    "transmission": "automatic",
+    "body-type": "muscle car",
+    "drive-type": "FR layout",
+    "plate-no": "xxxx8",
+    "condition": "good"
+  },
+  {
+    "brand": "AC",
+    "model": "3000ME",
+    "year": "1984",
+    "mileage": "593000",
+    "location": "Scotland",
+    "color": "Yellow",
+    "transmission": "manual",
+    "body-type": "sports car",
+    "drive-type": "all-synchromesh",
+    "plate-no": "xxxx8",
+    "condition": "slightly used"
+  },
+  {
+    "brand": "BMC",
+    "model": "ADO16",
+    "year": "1962",
+    "mileage": "324000",
+    "location": "Spain",
+    "color": "blue",
+    "transmission": "manual",
+    "body-type": "saloon",
+    "drive-type": "front-wheel drive",
+    "plate-no": "xxxx2",
+    "condition": "broken side mirror"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cimarron",
+    "year": "1988",
+    "mileage": "458000",
+    "location": "California",
+    "color": "grey",
+    "transmission": "automatic",
+    "body-type": "sedan",
+    "drive-type": "front-wheel drive",
+    "plate-no": "xxxx2",
+    "condition": "good"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "year": "2002",
+    "mileage": "424300",
+    "location": "Manila",
+    "color": "red",
+    "transmission": "automatic",
+    "body-type": "muscle car",
+    "drive-type": "FR layout",
+    "plate-no": "xxxx8",
+    "condition": "good"
+  },
+  {
+    "brand": "AC",
+    "model": "3000ME",
+    "year": "1984",
+    "mileage": "593000",
+    "location": "Scotland",
+    "color": "Yellow",
+    "transmission": "manual",
+    "body-type": "sports car",
+    "drive-type": "all-synchromesh",
+    "plate-no": "xxxx8",
+    "condition": "slightly used"
+  },
+  {
+    "brand": "BMC",
+    "model": "ADO16",
+    "year": "1962",
+    "mileage": "324000",
+    "location": "Spain",
+    "color": "blue",
+    "transmission": "manual",
+    "body-type": "saloon",
+    "drive-type": "front-wheel drive",
+    "plate-no": "xxxx2",
+    "condition": "broken side mirror"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cimarron",
+    "year": "1988",
+    "mileage": "458000",
+    "location": "California",
+    "color": "grey",
+    "transmission": "automatic",
+    "body-type": "sedan",
+    "drive-type": "front-wheel drive",
+    "plate-no": "xxxx2",
+    "condition": "good"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "year": "2002",
+    "mileage": "424300",
+    "location": "Manila",
+    "color": "red",
+    "transmission": "automatic",
+    "body-type": "muscle car",
+    "drive-type": "FR layout",
+    "plate-no": "xxxx8",
+    "condition": "good"
   }
-}
+]
